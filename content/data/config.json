@@ -76,7 +76,7 @@
         ]
     },
     "footer": {
-        "content": "&copy;   <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy;   "
     },
     "domain": "https://knowledgeable-cabbage-ce2ac.netlify.app"
 }
