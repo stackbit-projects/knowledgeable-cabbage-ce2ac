@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Hello World
     content: >
-      I am Rohan Shah and this my personal Webpage. I am currently doing my
+      I am Rohan Shah and this my personal Web-Site. I am currently doing my
       masters from Indian Institute of Science , Bangalore.
   - section_id: about
     type: section_content
